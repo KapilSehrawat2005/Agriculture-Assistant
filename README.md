@@ -25,16 +25,11 @@
 
 ## 🛠️ How It Works
 
-### Mode 1: Crop Suitability Checker
+### Crop Suitability Checker
 - Users input environmental parameters of their farmland.
 - The system checks these against known suitable ranges for various crops.
 - If parameters match a crop profile, it recommends that crop.
 
-### Mode 2: Crop Information Center
-- Users can select a crop to get comprehensive info like:
-  - Optimal sowing time
-  - Required fertilizers and quantities
-  - Irrigation and pest control tips
 
 ---
 
@@ -86,9 +81,3 @@ Developed by Team Agrim
 
 ---
 
-## 🌱 Future Improvements
-
-- GUI-based interface
-- Crop yield prediction using ML models
-- Integration with real-time weather APIs
-- Multi-language support (e.g., Hindi)
